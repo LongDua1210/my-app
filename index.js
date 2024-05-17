@@ -26,7 +26,7 @@ require("./database/init.mongodb")
 //   .catch(error => console.error(' Error sync: ', error));
 
 app.use("/api/", require("./getways/user.getway"));
-app.use("/api/", require("./getways/product.getway"));
+// app.use("/api/", require("./getways/product.getway"));
 // Khai báo route API
 
 
