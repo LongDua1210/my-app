@@ -4,7 +4,7 @@
 
 
 // Test
- const connectString = "mongodb://localhost:27017"
+ const connectString = "mongodb+srv://nguyentuanlong1210:longdua1210@cluster0.gc0upfh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 // triển khai master/slave
